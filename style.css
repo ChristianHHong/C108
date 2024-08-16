@@ -1,0 +1,22 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background: #161789;
+}
+
+.header_div
+{
+    background: #161789;
+    text-decoration-color: crimson;
+}
+
+.main_div{
+    font: bold;
+    margin-top: auto;
+    font-weight: 200;
+    letter-spacing: normal;
+}
+
+.copy_right_footer{
+    background: #891616;
+}
